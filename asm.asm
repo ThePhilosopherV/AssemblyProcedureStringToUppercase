@@ -1,5 +1,5 @@
 ;a procedure  to convert a string to uppercase
-;it takes takes a string pointer in rcx and returns the uppercases result in rax
+;it takes a string pointer in rcx and returns the uppercased string pointer in rax
 ;maximum input length is 500 characters , you can twist it if you like to
 .data
 
